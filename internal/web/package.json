@@ -1,0 +1,39 @@
+{
+  "name": "exatorrent",
+  "private": true,
+  "homepage": "https://github.com/varbhat/exatorrent#readme",
+  "bugs": {
+    "url": "https://github.com/varbhat/exatorrent/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varbhat/exatorrent.git"
+  },
+  "license": "GPL-3.0-or-later",
+  "author": "varbhat",
+  "type": "module",
+  "scripts": {
+    "build": "vite build",
+    "check": "svelte-check --tsconfig ./tsconfig.json && tsc -p tsconfig.node.json",
+    "dev": "vite",
+    "format": "prettier --write --plugin-search-dir=. .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "slocation": "^1.5.0",
+    "svelte-sonner": "^0.3.28"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^5.0.3",
+    "@tailwindcss/vite": "^4.1.6",
+    "@tsconfig/svelte": "^5.0.4",
+    "prettier": "^3.5.3",
+    "prettier-plugin-svelte": "^3.3.3",
+    "svelte": "^5.28.2",
+    "svelte-check": "^4.1.7",
+    "tailwindcss": "^4.1.6",
+    "tslib": "^2.7.0",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.5"
+  }
+}
