@@ -13,4 +13,3 @@ var FrontEndHandler http.Handler
 func init() {
 	FrontEndHandler = http.NotFoundHandler()
 }
-
