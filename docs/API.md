@@ -92,4 +92,3 @@ Some Requests namely `getalltorrents` , `gettorrents` , `gettorrentinfo`  are st
 
 ## Reference
 Please Read [wshandler](https://github.com/varbhat/exatorrent/blob/main/internal/core/socket.go#L108) to get more details about API
-
