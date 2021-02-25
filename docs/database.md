@@ -11,4 +11,3 @@ Note that once you start using one Database, you must stick to it. You cannot ju
 4. Piece Completion State of Torrent
 5. State of Files of Torrent
 6. Lock State of Torrent
-
