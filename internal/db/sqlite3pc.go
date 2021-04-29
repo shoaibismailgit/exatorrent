@@ -79,4 +79,3 @@ func (me *sqlitePieceCompletion) Close() (err error) {
 	}
 	return
 }
-
