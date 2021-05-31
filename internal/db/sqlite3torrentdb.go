@@ -194,4 +194,3 @@ func (db *Sqlite3Db) GetTorrents() (Trnts []*Torrent, err error) {
 
 	return Trnts, nil
 }
-
