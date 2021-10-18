@@ -64,4 +64,3 @@ Blocklist of PeerGuardian Text Lists (P2P) Format can be placed at `<exadirector
 
 ## Rate Limiter
 `UploadLimiterLimit` , `UploadLimiterBurst` , `DownloadLimiterLimit` , `DownloadLimiterBurst`  values of `clientconfig.json` can be used to Rate Limit `exatorrent` .
-
