@@ -518,3 +518,4 @@ export let fileType = (filepath: string): string => {
   }
   return 'unknown';
 };
+
