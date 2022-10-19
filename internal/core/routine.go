@@ -101,4 +101,3 @@ func stoponseedratio(sr float64) {
 		}
 	}
 }
-
