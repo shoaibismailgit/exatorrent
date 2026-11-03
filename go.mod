@@ -4,7 +4,7 @@ go 1.24.0
 
 require (
 	github.com/anacrolix/chansync v0.6.0
-	github.com/anacrolix/go-libutp v1.3.2
+	github.com/anacrolix/go-libutp v1.5.1
 	github.com/anacrolix/log v0.16.0
 	github.com/anacrolix/torrent v1.58.1
 	github.com/go-llsqlite/crawshaw v0.5.5
@@ -12,7 +12,7 @@ require (
 	github.com/gorilla/websocket v1.5.3
 	github.com/pbnjay/memory v0.0.0-20210728143218-7b4eea64cf58
 	github.com/shirou/gopsutil/v3 v3.24.5
-	golang.org/x/crypto v0.38.0
+	golang.org/x/crypto v0.44.0
 	golang.org/x/time v0.11.0
 )
 
@@ -25,7 +25,7 @@ require (
 	github.com/anacrolix/generics v0.0.3-0.20240902042256-7fb2702ef0ca // indirect
 	github.com/anacrolix/missinggo v1.3.0 // indirect
 	github.com/anacrolix/missinggo/perf v1.0.0 // indirect
-	github.com/anacrolix/missinggo/v2 v2.8.0 // indirect
+	github.com/anacrolix/missinggo/v2 v2.10.0 // indirect
 	github.com/anacrolix/mmsg v1.1.1 // indirect
 	github.com/anacrolix/multiless v0.4.0 // indirect
 	github.com/anacrolix/stm v0.5.0 // indirect
@@ -89,9 +89,9 @@ require (
 	go.opentelemetry.io/otel/metric v1.35.0 // indirect
 	go.opentelemetry.io/otel/trace v1.35.0 // indirect
 	golang.org/x/exp v0.0.0-20250408133849-7e4ce0ab07d0 // indirect
-	golang.org/x/net v0.39.0 // indirect
+	golang.org/x/net v0.47.0 // indirect
 	golang.org/x/sync v0.13.0 // indirect
-	golang.org/x/sys v0.33.0 // indirect
+	golang.org/x/sys v0.38.0 // indirect
 	lukechampine.com/blake3 v1.4.0 // indirect
 	modernc.org/libc v1.65.0 // indirect
 	modernc.org/mathutil v1.7.1 // indirect
