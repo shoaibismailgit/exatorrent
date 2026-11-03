@@ -3,11 +3,11 @@ module github.com/varbhat/exatorrent
 go 1.24.0
 
 require (
-	github.com/anacrolix/chansync v0.6.0
+	github.com/anacrolix/chansync v0.8.0
 	github.com/anacrolix/go-libutp v1.3.2
 	github.com/anacrolix/log v0.16.0
 	github.com/anacrolix/torrent v1.58.1
-	github.com/go-llsqlite/crawshaw v0.5.5
+	github.com/go-llsqlite/crawshaw v0.7.0
 	github.com/google/uuid v1.6.0
 	github.com/gorilla/websocket v1.5.3
 	github.com/pbnjay/memory v0.0.0-20210728143218-7b4eea64cf58
